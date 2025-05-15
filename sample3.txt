@@ -1,1 +1,2 @@
 this is the file sample3 text file.
+the new line added.
